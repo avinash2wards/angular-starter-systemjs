@@ -1,0 +1,9 @@
+.bringItToCenter {
+    width: 80%;
+    height: 15%;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 30px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
